@@ -2,7 +2,11 @@
 MVPA GUI ( weblink: https://sites.google.com/site/mvpagui/home)
 
 
-Project Video Demo ([![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=bt9bDW-q7Yk)](https://www.youtube.com/watch?v=bt9bDW-q7Yk)
+Project Video Demo 
+Link: https://www.youtube.com/watch?v=bt9bDW-q7Yk
+
+![alt text](https://github.com/kbohra/mvpagui/blob/master/images/mvpagui_image.png)
+
 
                                                    ABSTRACT
 A SOFTWARE FOR MULTIVOXEL PATTERN ANALYSIS OF FUNCTIONAL MAGNETIC RESONANCE IMAGING DATA
