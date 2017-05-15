@@ -1,5 +1,5 @@
 # mvpagui
-MVPA GUI
+MVPA GUI ( http://search.proquest.com/docview/1615791427 )
 
                                                    ABSTRACT
 A SOFTWARE FOR MULTIVOXEL PATTERN ANALYSIS OF FUNCTIONAL MAGNETIC RESONANCE IMAGING DATA
