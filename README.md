@@ -1,9 +1,16 @@
 # mvpagui
 MVPA GUI ( weblink: https://sites.google.com/site/mvpagui/home)
 
-
 Project Video Demo 
 Link: https://www.youtube.com/watch?v=bt9bDW-q7Yk
+
+Project Documents link: https://sites.google.com/site/mvpagui/downloads
+
+# Design Overview and Implementation
+*************************************
+In this project, we implemented a MATLAB-based graphical user interface (GUI) tool which can read 
+4D-Nifti fMRI data from the brain, and does classification of different brain “states” or “conditions” using various supervised machine learning algorithms. The algorithms which are implemented in the toolbox include linear discriminant analysis, neural networks, logistic regression, sparse multinomial logistic regression, ridge regression, and support vector machines. The toolbox allows the user to mask the brain and focus on only the anatomical parts she/he is interested in. The tool accommodates choosing between various types of inputs which describe the fMRI experiment stimuli/tasks and it provides a detailed visualization of results. The GUI designed here gives the user the flexibility to easily modify different parameter values of interest of the selected classification algorithm being applied.
+An important feature of this GUI design is that one can save and load all the input parameters such as the classification algorithm selected, its parameters, the input data used for classification, etc. for a particular analysis. The results of classification can also be saved and loaded. This saves time for the user to easily go through particular analysis and its results in future if needed. We use some of the open-source SPM functions.
 
 ![alt text](https://github.com/kbohra/mvpagui/blob/master/images/mvpagui_image.png)
 
