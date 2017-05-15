@@ -1,6 +1,10 @@
 # mvpagui
 MVPA GUI ( weblink: https://sites.google.com/site/mvpagui/home)
 
+# About MVPAGUI Software
+**************************************
+Functional magnetic resonance imaging (fMRI) is a medical imaging method which indirectly measures brain activity by measuring changes in blood-oxygenation levels from 3D snapshots of the brain every few seconds. Exposing a subject to different kind of stimuli or tasks systematically during the fMRI scan causes different parts of the brain to activate. FMRI signal can be analyzed to find out the characteristics of these activations and any systematic activation differences under different stimuli/tasks. Multivariate pattern recognition and classification algorithms, as known as multivoxel pattern analyses (MVPA) methods in the neuroimaging community, have been recently applied to fMRI data to classify between different brain “states” or “conditions” resulting from different stimuli/tasks. MVPA methods have been gaining popularity in neuroimaging and there is need for user-friendly graphical user interface (GUI) software which implements these methods
+
 Project Video Demo 
 Link: https://www.youtube.com/watch?v=bt9bDW-q7Yk
 
